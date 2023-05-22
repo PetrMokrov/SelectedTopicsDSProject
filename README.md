@@ -10,4 +10,4 @@ Project name and description are given below:
 
 ## Code 
 
-The code as well as an instruction to reproduce our experiments will be provided soon. 
+For obtaining the code please contact the author (it can not be currently published publicly).
